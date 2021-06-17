@@ -1,0 +1,702 @@
+Tiempo,Partida,Cant_adivinar,Nombre_evento,Nick,Genero,Edad,Estado,Palabra,Nivel
+1623511677,1,6,inicio_partida,Ignacio,Masculino,24,,,facil
+1623511679,1,6,intento,Ignacio,Masculino,24,error,MESSI,facil
+1623511680,1,6,intento,Ignacio,Masculino,24,error,ANSALDI,facil
+1623511681,1,6,intento,Ignacio,Masculino,24,error,LANZINI,facil
+1623511682,1,6,intento,Ignacio,Masculino,24,error,LANZINI,facil
+1623511683,1,6,intento,Ignacio,Masculino,24,ok,TAGLIAFICO,facil
+1623511684,1,6,intento,Ignacio,Masculino,24,error,ANSALDI,facil
+1623511686,1,6,intento,Ignacio,Masculino,24,error,LANZINI,facil
+1623511687,1,6,intento,Ignacio,Masculino,24,ok,ANSALDI,facil
+1623511688,1,6,intento,Ignacio,Masculino,24,error,BIGLIA,facil
+1623511689,1,6,intento,Ignacio,Masculino,24,ok,BIGLIA,facil
+1623511690,1,6,intento,Ignacio,Masculino,24,error,MESSI,facil
+1623511691,1,6,intento,Ignacio,Masculino,24,ok,SALVIO,facil
+1623511692,1,6,intento,Ignacio,Masculino,24,ok,MESSI,facil
+1623511693,1,6,intento,Ignacio,Masculino,24,ok,LANZINI,facil
+1623511698,1,6,fin,Ignacio,Masculino,24,finalizada,,facil
+1623511699,2,6,inicio_partida,Ignacio,Masculino,24,,,facil
+1623511701,2,6,intento,Ignacio,Masculino,24,error,MESSI,facil
+1623511704,2,6,intento,Ignacio,Masculino,24,error,SALVIO,facil
+1623511705,2,6,intento,Ignacio,Masculino,24,ok,SALVIO,facil
+1623511708,2,6,intento,Ignacio,Masculino,24,error,MESSI,facil
+1623511709,2,6,intento,Ignacio,Masculino,24,error,ANSALDI,facil
+1623511710,2,6,intento,Ignacio,Masculino,24,ok,TAGLIAFICO,facil
+1623511712,2,6,intento,Ignacio,Masculino,24,ok,LANZINI,facil
+1623511713,2,6,intento,Ignacio,Masculino,24,ok,BIGLIA,facil
+1623511715,2,6,intento,Ignacio,Masculino,24,ok,MESSI,facil
+1623511716,2,6,intento,Ignacio,Masculino,24,ok,ANSALDI,facil
+1623511718,2,6,fin,Ignacio,Masculino,24,finalizada,,facil
+1623511724,3,12,inicio_partida,Ignacio,Masculino,24,,,medio
+1623511729,3,12,intento,Ignacio,Masculino,24,error,HIGUAÍN,medio
+1623511746,3,12,intento,Ignacio,Masculino,24,ok,HIGUAÍN,medio
+1623511747,3,12,fin,Ignacio,Masculino,24,fin_forzado,,medio
+1623511753,4,72,inicio_partida,Ignacio,Masculino,24,,,dificil
+1623511755,4,72,intento,Ignacio,Masculino,24,error,MENDY,dificil
+1623511757,4,72,intento,Ignacio,Masculino,24,error,MARCELO,dificil
+1623511758,4,72,intento,Ignacio,Masculino,24,error,MANDANDA,dificil
+1623511759,4,72,intento,Ignacio,Masculino,24,error,BIGLIA,dificil
+1623511760,4,72,intento,Ignacio,Masculino,24,error,MENDY,dificil
+1623511761,4,72,intento,Ignacio,Masculino,24,error,FAGNER,dificil
+1623511762,4,72,intento,Ignacio,Masculino,24,error,PAULINHO,dificil
+1623511763,4,72,intento,Ignacio,Masculino,24,error,SILVA,dificil
+1623511764,4,72,intento,Ignacio,Masculino,24,error,TOLISSO,dificil
+1623511767,4,72,intento,Ignacio,Masculino,24,error,TAISON,dificil
+1623511768,4,72,intento,Ignacio,Masculino,24,error,LEMAR,dificil
+1623511769,4,72,intento,Ignacio,Masculino,24,error,RODRIGO M.,dificil
+1623511770,4,72,intento,Ignacio,Masculino,24,error,FAZIO,dificil
+1623511772,4,72,intento,Ignacio,Masculino,24,error,T. SILVA,dificil
+1623511773,4,72,intento,Ignacio,Masculino,24,error,R. AUGUSTO,dificil
+1623511774,4,72,intento,Ignacio,Masculino,24,error,FRED,dificil
+1623511776,4,72,intento,Ignacio,Masculino,24,error,MATUIDI,dificil
+1623511778,4,72,intento,Ignacio,Masculino,24,error,D. COSTA,dificil
+1623511779,4,72,intento,Ignacio,Masculino,24,error,HIGUAÍN,dificil
+1623511780,4,72,intento,Ignacio,Masculino,24,error,UMTITI,dificil
+1623511782,4,72,intento,Ignacio,Masculino,24,error,OTAMENDI,dificil
+1623511783,4,72,intento,Ignacio,Masculino,24,error,FAGNER,dificil
+1623511784,4,72,intento,Ignacio,Masculino,24,error,BIGLIA,dificil
+1623511786,4,72,intento,Ignacio,Masculino,24,error,PAULINHO,dificil
+1623511787,4,72,intento,Ignacio,Masculino,24,error,MATUIDI,dificil
+1623511788,4,72,intento,Ignacio,Masculino,24,error,MARQUINHOS,dificil
+1623511790,4,72,intento,Ignacio,Masculino,24,error,OTAMENDI,dificil
+1623511790,4,72,fin,Ignacio,Masculino,24,fin_forzado,,dificil
+1623511793,5,72,inicio_partida,Ignacio,Masculino,24,,,dificil
+1623511798,5,72,intento,Ignacio,Masculino,24,error,A. INIESTA,dificil
+1623511800,5,72,intento,Ignacio,Masculino,24,error,CASEMIRO,dificil
+1623511872,5,72,fin,Ignacio,Masculino,24,timeout,,dificil
+1623515656,6,18,inicio_partida,a,Masculino,18,,,medio
+1623515657,6,18,intento,a,Masculino,18,error,HIGUAÍN,medio
+1623515658,6,18,intento,a,Masculino,18,error,MEZA,medio
+1623515659,6,18,intento,a,Masculino,18,error,TAGLIAFICO,medio
+1623515659,6,18,intento,a,Masculino,18,error,FAZIO,medio
+1623515660,6,18,intento,a,Masculino,18,ok,ROJO,medio
+1623515661,6,18,intento,a,Masculino,18,error,MERCADO,medio
+1623515662,6,18,intento,a,Masculino,18,error,MASCHERANO,medio
+1623515663,6,18,intento,a,Masculino,18,ok,TAGLIAFICO,medio
+1623515664,6,18,fin,a,Masculino,18,fin_forzado,,medio
+1623518239,7,6,inicio_partida,Martina,Femenino,50,,,facil
+1623518241,7,6,intento,Martina,Femenino,50,error,MESSI,facil
+1623518242,7,6,intento,Martina,Femenino,50,error,MESSI,facil
+1623518242,7,6,intento,Martina,Femenino,50,ok,MESSI,facil
+1623518243,7,6,intento,Martina,Femenino,50,ok,LANZINI,facil
+1623518244,7,6,intento,Martina,Femenino,50,error,ANSALDI,facil
+1623518245,7,6,intento,Martina,Femenino,50,ok,ANSALDI,facil
+1623518246,7,6,intento,Martina,Femenino,50,ok,BIGLIA,facil
+1623518248,7,6,intento,Martina,Femenino,50,error,SALVIO,facil
+1623518249,7,6,intento,Martina,Femenino,50,ok,SALVIO,facil
+1623518250,7,6,intento,Martina,Femenino,50,ok,TAGLIAFICO,facil
+1623518251,7,6,fin,Martina,Femenino,50,finalizada,,facil
+1623519617,8,18,inicio_partida,a,Masculino,18,,,medio
+1623519619,8,18,intento,a,Masculino,18,error,AGÜERO,medio
+1623519621,8,18,intento,a,Masculino,18,error,DYBALA,medio
+1623519623,8,18,intento,a,Masculino,18,error,DI MARÍA,medio
+1623519624,8,18,intento,a,Masculino,18,error,ACUÑA,medio
+1623519626,8,18,fin,a,Masculino,18,fin_forzado,,medio
+1623519635,9,18,inicio_partida,a,Masculino,18,,,medio
+1623519636,9,18,intento,a,Masculino,18,error,ROJO,medio
+1623519637,9,18,intento,a,Masculino,18,error,DYBALA,medio
+1623519638,9,18,intento,a,Masculino,18,error,HIGUAÍN,medio
+1623519639,9,18,intento,a,Masculino,18,error,SALVIO,medio
+1623519646,9,18,fin,a,Masculino,18,fin_forzado,,medio
+1623519654,10,18,inicio_partida,a,Masculino,18,,,medio
+1623519656,10,18,intento,a,Masculino,18,error,FAZIO,medio
+1623519657,10,18,intento,a,Masculino,18,error,MERCADO,medio
+1623519658,10,18,intento,a,Masculino,18,error,MASCHERANO,medio
+1623519660,10,18,intento,a,Masculino,18,error,BIGLIA,medio
+1623519661,10,18,intento,a,Masculino,18,error,ANSALDI,medio
+1623519662,10,18,intento,a,Masculino,18,error,HIGUAÍN,medio
+1623519663,10,18,intento,a,Masculino,18,error,TAGLIAFICO,medio
+1623519664,10,18,intento,a,Masculino,18,error,BANEGA,medio
+1623519665,10,18,intento,a,Masculino,18,error,MEZA,medio
+1623519666,10,18,intento,a,Masculino,18,error,BIGLIA,medio
+1623519666,10,18,intento,a,Masculino,18,error,MEZA,medio
+1623519667,10,18,intento,a,Masculino,18,error,OTAMENDI,medio
+1623519668,10,18,intento,a,Masculino,18,error,ANSALDI,medio
+1623519669,10,18,intento,a,Masculino,18,error,MERCADO,medio
+1623519670,10,18,intento,a,Masculino,18,error,TAGLIAFICO,medio
+1623519675,10,18,intento,a,Masculino,18,error,TAGLIAFICO,medio
+1623519676,10,18,intento,a,Masculino,18,error,BANEGA,medio
+1623519678,10,18,fin,a,Masculino,18,fin_forzado,,medio
+1623519728,11,72,inicio_partida,a,Masculino,18,,,dificil
+1623519730,11,72,intento,a,Masculino,18,error,MONREAL,dificil
+1623519733,11,72,fin,a,Masculino,18,fin_forzado,,dificil
+1623519764,12,72,inicio_partida,a,Masculino,18,,,dificil
+1623519766,12,72,intento,a,Masculino,18,error,GRIEZMANN,dificil
+1623519767,12,72,intento,a,Masculino,18,error,MATUIDI,dificil
+1623519768,12,72,intento,a,Masculino,18,error,MANDANDA,dificil
+1623519769,12,72,intento,a,Masculino,18,error,HIGUAÍN,dificil
+1623519770,12,72,intento,a,Masculino,18,error,MIRANDA,dificil
+1623519771,12,72,intento,a,Masculino,18,error,FAZIO,dificil
+1623519773,12,72,intento,a,Masculino,18,error,ROJO,dificil
+1623519774,12,72,intento,a,Masculino,18,error,DI MARÍA,dificil
+1623519775,12,72,intento,a,Masculino,18,error,BANEGA,dificil
+1623519776,12,72,intento,a,Masculino,18,error,ODRIOZOLA,dificil
+1623519777,12,72,intento,a,Masculino,18,error,FEKIR,dificil
+1623519778,12,72,intento,a,Masculino,18,error,FIRMINO,dificil
+1623519779,12,72,intento,a,Masculino,18,error,VARANE,dificil
+1623519780,12,72,intento,a,Masculino,18,error,D. COSTA,dificil
+1623519781,12,72,intento,a,Masculino,18,error,ODRIOZOLA,dificil
+1623519782,12,72,intento,a,Masculino,18,error,FILIPE LUIS,dificil
+1623519783,12,72,intento,a,Masculino,18,error,T. SILVA,dificil
+1623519784,12,72,intento,a,Masculino,18,error,ANSALDI,dificil
+1623519785,12,72,intento,a,Masculino,18,error,MERCADO,dificil
+1623519786,12,72,intento,a,Masculino,18,error,MEZA,dificil
+1623519787,12,72,intento,a,Masculino,18,error,TOLISSO,dificil
+1623519788,12,72,intento,a,Masculino,18,error,LLORIS,dificil
+1623519789,12,72,intento,a,Masculino,18,error,ARMANI,dificil
+1623519988,12,72,fin,a,Masculino,18,timeout,,dificil
+1623519989,13,72,inicio_partida,a,Masculino,18,,,dificil
+1623519991,13,72,intento,a,Masculino,18,error,DI MARÍA,dificil
+1623519992,13,72,intento,a,Masculino,18,error,ARMANI,dificil
+1623519993,13,72,intento,a,Masculino,18,error,SALVIO,dificil
+1623519998,13,72,intento,a,Masculino,18,error,FRED,dificil
+1623519999,13,72,intento,a,Masculino,18,error,SILVA,dificil
+1623520000,13,72,intento,a,Masculino,18,error,DANILO,dificil
+1623520002,13,72,intento,a,Masculino,18,error,FIRMINO,dificil
+1623520003,13,72,intento,a,Masculino,18,error,ARMANI,dificil
+1623520004,13,72,intento,a,Masculino,18,error,THAUVIN,dificil
+1623520005,13,72,intento,a,Masculino,18,error,T. SILVA,dificil
+1623520007,13,72,intento,a,Masculino,18,error,FIRMINO,dificil
+1623520008,13,72,intento,a,Masculino,18,error,JORDI ALBA,dificil
+1623520017,13,72,fin,a,Masculino,18,fin_forzado,,dificil
+1623520083,14,72,inicio_partida,a,Masculino,18,,,dificil
+1623520085,14,72,intento,a,Masculino,18,error,GRIEZMANN,dificil
+1623520086,14,72,intento,a,Masculino,18,error,GRIEZMANN,dificil
+1623520087,14,72,intento,a,Masculino,18,error,ANSALDI,dificil
+1623520088,14,72,intento,a,Masculino,18,error,FAZIO,dificil
+1623520090,14,72,intento,a,Masculino,18,error,THAUVIN,dificil
+1623520092,14,72,intento,a,Masculino,18,error,FAGNER,dificil
+1623520095,14,72,intento,a,Masculino,18,error,A. INIESTA,dificil
+1623520096,14,72,intento,a,Masculino,18,error,POGBA,dificil
+1623520098,14,72,intento,a,Masculino,18,error,EDERSON,dificil
+1623520098,14,72,intento,a,Masculino,18,error,CARVAJAL,dificil
+1623520100,14,72,intento,a,Masculino,18,error,MASCHERANO,dificil
+1623520102,14,72,intento,a,Masculino,18,error,RODRIGO M.,dificil
+1623520108,14,72,intento,a,Masculino,18,error,RODRIGO M.,dificil
+1623520111,14,72,intento,a,Masculino,18,error,RODRIGO M.,dificil
+1623520113,14,72,intento,a,Masculino,18,error,ODRIOZOLA,dificil
+1623520119,14,72,intento,a,Masculino,18,error,RODRIGO M.,dificil
+1623520120,14,72,intento,a,Masculino,18,error,T. SILVA,dificil
+1623520121,14,72,intento,a,Masculino,18,error,MARQUINHOS,dificil
+1623520122,14,72,intento,a,Masculino,18,error,TOLISSO,dificil
+1623520123,14,72,intento,a,Masculino,18,error,ANSALDI,dificil
+1623520124,14,72,intento,a,Masculino,18,error,AGÜERO,dificil
+1623520125,14,72,intento,a,Masculino,18,error,ACUÑA,dificil
+1623520126,14,72,intento,a,Masculino,18,error,TAGLIAFICO,dificil
+1623520127,14,72,intento,a,Masculino,18,error,LLORIS,dificil
+1623520132,14,72,fin,a,Masculino,18,fin_forzado,,dificil
+1623520142,15,72,inicio_partida,a,Masculino,18,,,dificil
+1623520143,15,72,intento,a,Masculino,18,error,NZONZI,dificil
+1623520144,15,72,intento,a,Masculino,18,ok,LANZINI,dificil
+1623520146,15,72,intento,a,Masculino,18,error,MARQUINHOS,dificil
+1623520148,15,72,intento,a,Masculino,18,error,HIGUAÍN,dificil
+1623520149,15,72,intento,a,Masculino,18,error,AGÜERO,dificil
+1623520150,15,72,intento,a,Masculino,18,error,EDERSON,dificil
+1623520151,15,72,intento,a,Masculino,18,error,LEMAR,dificil
+1623520152,15,72,intento,a,Masculino,18,error,FAZIO,dificil
+1623520153,15,72,intento,a,Masculino,18,error,MESSI,dificil
+1623520154,15,72,intento,a,Masculino,18,error,MEZA,dificil
+1623520155,15,72,intento,a,Masculino,18,error,POGBA,dificil
+1623520155,15,72,intento,a,Masculino,18,error,MATUIDI,dificil
+1623520157,15,72,intento,a,Masculino,18,error,BIGLIA,dificil
+1623520157,15,72,intento,a,Masculino,18,error,MENDY,dificil
+1623520158,15,72,intento,a,Masculino,18,error,LLORIS,dificil
+1623520159,15,72,intento,a,Masculino,18,error,HIGUAÍN,dificil
+1623520160,15,72,intento,a,Masculino,18,error,WILLIAN,dificil
+1623520160,15,72,intento,a,Masculino,18,error,FAZIO,dificil
+1623520161,15,72,intento,a,Masculino,18,error,PAULINHO,dificil
+1623520162,15,72,intento,a,Masculino,18,error,FAGNER,dificil
+1623520162,15,72,intento,a,Masculino,18,error,SIDIBE,dificil
+1623520163,15,72,intento,a,Masculino,18,error,TOLISSO,dificil
+1623520164,15,72,intento,a,Masculino,18,error,KIMPEMBE,dificil
+1623520164,15,72,intento,a,Masculino,18,error,R. AUGUSTO,dificil
+1623520165,15,72,intento,a,Masculino,18,error,OTAMENDI,dificil
+1623520166,15,72,intento,a,Masculino,18,error,ROJO,dificil
+1623520167,15,72,intento,a,Masculino,18,error,BIGLIA,dificil
+1623520168,15,72,intento,a,Masculino,18,error,R. AUGUSTO,dificil
+1623520169,15,72,intento,a,Masculino,18,error,NEYMAR JR,dificil
+1623520172,15,72,intento,a,Masculino,18,error,A. INIESTA,dificil
+1623520175,15,72,intento,a,Masculino,18,error,A. INIESTA,dificil
+1623520176,15,72,intento,a,Masculino,18,error,ROJO,dificil
+1623520177,15,72,intento,a,Masculino,18,error,GRIEZMANN,dificil
+1623520178,15,72,intento,a,Masculino,18,error,MEZA,dificil
+1623520179,15,72,intento,a,Masculino,18,error,MASCHERANO,dificil
+1623520180,15,72,intento,a,Masculino,18,error,ARMANI,dificil
+1623520181,15,72,intento,a,Masculino,18,error,GEROMEL,dificil
+1623520182,15,72,intento,a,Masculino,18,error,FERNANDINHO,dificil
+1623520183,15,72,intento,a,Masculino,18,error,WILLIAN,dificil
+1623520184,15,72,intento,a,Masculino,18,error,CASSIO,dificil
+1623520186,15,72,intento,a,Masculino,18,error,AREOLA,dificil
+1623520187,15,72,intento,a,Masculino,18,error,AREOLA,dificil
+1623520188,15,72,intento,a,Masculino,18,error,BANEGA,dificil
+1623520189,15,72,intento,a,Masculino,18,error,CASEMIRO,dificil
+1623520190,15,72,intento,a,Masculino,18,error,FRED,dificil
+1623520191,15,72,intento,a,Masculino,18,error,DANILO,dificil
+1623520192,15,72,intento,a,Masculino,18,error,LLORIS,dificil
+1623520193,15,72,intento,a,Masculino,18,error,DI MARÍA,dificil
+1623520205,15,72,intento,a,Masculino,18,error,P. COUTINHO,dificil
+1623520206,15,72,intento,a,Masculino,18,error,OTAMENDI,dificil
+1623520207,15,72,intento,a,Masculino,18,error,SILVA,dificil
+1623520208,15,72,intento,a,Masculino,18,error,SILVA,dificil
+1623520209,15,72,intento,a,Masculino,18,error,GUZMÁN,dificil
+1623520210,15,72,intento,a,Masculino,18,error,LUCAS V.,dificil
+1623520239,15,72,fin,a,Masculino,18,fin_forzado,,dificil
+1623520305,16,72,inicio_partida,a,Masculino,18,,,dificil
+1623520307,16,72,intento,a,Masculino,18,error,FAGNER,dificil
+1623520308,16,72,intento,a,Masculino,18,error,UMTITI,dificil
+1623520309,16,72,intento,a,Masculino,18,error,T. SILVA,dificil
+1623520310,16,72,intento,a,Masculino,18,error,TAGLIAFICO,dificil
+1623520311,16,72,intento,a,Masculino,18,error,CASSIO,dificil
+1623520312,16,72,intento,a,Masculino,18,error,DE GEA,dificil
+1623520313,16,72,intento,a,Masculino,18,error,SILVA,dificil
+1623520316,16,72,intento,a,Masculino,18,error,LUCAS V.,dificil
+1623520316,16,72,fin,a,Masculino,18,fin_forzado,,dificil
+1623520389,17,72,inicio_partida,a,Masculino,18,,,dificil
+1623520391,17,72,intento,a,Masculino,18,error,SALVIO,dificil
+1623520392,17,72,intento,a,Masculino,18,error,CASEMIRO,dificil
+1623520393,17,72,intento,a,Masculino,18,error,SIDIBE,dificil
+1623520394,17,72,intento,a,Masculino,18,error,A. BECKER,dificil
+1623520396,17,72,intento,a,Masculino,18,error,SIDIBE,dificil
+1623520397,17,72,intento,a,Masculino,18,error,THIAGO,dificil
+1623520398,17,72,intento,a,Masculino,18,error,OTAMENDI,dificil
+1623520400,17,72,intento,a,Masculino,18,error,ANSALDI,dificil
+1623520401,17,72,intento,a,Masculino,18,error,LANZINI,dificil
+1623520402,17,72,intento,a,Masculino,18,error,IAGO ASPAS,dificil
+1623520403,17,72,intento,a,Masculino,18,error,TAGLIAFICO,dificil
+1623520404,17,72,intento,a,Masculino,18,error,PAULINHO,dificil
+1623520405,17,72,intento,a,Masculino,18,error,GRIEZMANN,dificil
+1623520406,17,72,intento,a,Masculino,18,error,P. COUTINHO,dificil
+1623520407,17,72,intento,a,Masculino,18,error,WILLIAN,dificil
+1623520408,17,72,intento,a,Masculino,18,error,AGÜERO,dificil
+1623520409,17,72,intento,a,Masculino,18,error,A. INIESTA,dificil
+1623520411,17,72,intento,a,Masculino,18,error,A. INIESTA,dificil
+1623520412,17,72,intento,a,Masculino,18,error,GIROUD,dificil
+1623520414,17,72,intento,a,Masculino,18,error,AREOLA,dificil
+1623520415,17,72,intento,a,Masculino,18,error,DANILO,dificil
+1623520417,17,72,intento,a,Masculino,18,error,LEMAR,dificil
+1623520418,17,72,intento,a,Masculino,18,error,MANDANDA,dificil
+1623520419,17,72,intento,a,Masculino,18,error,THAUVIN,dificil
+1623520421,17,72,intento,a,Masculino,18,error,THAUVIN,dificil
+1623520422,17,72,intento,a,Masculino,18,error,GUZMÁN,dificil
+1623520423,17,72,intento,a,Masculino,18,error,FEKIR,dificil
+1623520424,17,72,intento,a,Masculino,18,error,T. SILVA,dificil
+1623520425,17,72,intento,a,Masculino,18,error,AGÜERO,dificil
+1623520426,17,72,intento,a,Masculino,18,error,DI MARÍA,dificil
+1623520427,17,72,intento,a,Masculino,18,error,A. INIESTA,dificil
+1623520428,17,72,intento,a,Masculino,18,error,TAGLIAFICO,dificil
+1623520429,17,72,intento,a,Masculino,18,error,FIRMINO,dificil
+1623520430,17,72,intento,a,Masculino,18,error,FAGNER,dificil
+1623520431,17,72,intento,a,Masculino,18,error,WILLIAN,dificil
+1623520432,17,72,intento,a,Masculino,18,error,JORDI ALBA,dificil
+1623520433,17,72,intento,a,Masculino,18,error,POGBA,dificil
+1623520433,17,72,intento,a,Masculino,18,error,FILIPE LUIS,dificil
+1623520434,17,72,intento,a,Masculino,18,error,KIMPEMBE,dificil
+1623520435,17,72,intento,a,Masculino,18,error,BIGLIA,dificil
+1623520436,17,72,intento,a,Masculino,18,error,DE GEA,dificil
+1623520443,17,72,intento,a,Masculino,18,error,DE GEA,dificil
+1623520444,17,72,intento,a,Masculino,18,error,ODRIOZOLA,dificil
+1623520446,17,72,intento,a,Masculino,18,error,LUCAS V.,dificil
+1623520447,17,72,intento,a,Masculino,18,error,T. SILVA,dificil
+1623520448,17,72,intento,a,Masculino,18,error,MATUIDI,dificil
+1623520449,17,72,intento,a,Masculino,18,error,FAZIO,dificil
+1623520450,17,72,intento,a,Masculino,18,error,LUCAS V.,dificil
+1623520451,17,72,intento,a,Masculino,18,error,SALVIO,dificil
+1623520452,17,72,intento,a,Masculino,18,error,FAGNER,dificil
+1623520453,17,72,intento,a,Masculino,18,error,NEYMAR JR,dificil
+1623520454,17,72,intento,a,Masculino,18,error,LEMAR,dificil
+1623520455,17,72,intento,a,Masculino,18,error,NZONZI,dificil
+1623520456,17,72,intento,a,Masculino,18,error,BANEGA,dificil
+1623520457,17,72,intento,a,Masculino,18,error,FILIPE LUIS,dificil
+1623520458,17,72,intento,a,Masculino,18,error,KIMPEMBE,dificil
+1623520459,17,72,intento,a,Masculino,18,error,CASSIO,dificil
+1623520460,17,72,intento,a,Masculino,18,error,DE GEA,dificil
+1623520460,17,72,intento,a,Masculino,18,error,RAMI,dificil
+1623520461,17,72,intento,a,Masculino,18,error,EDERSON,dificil
+1623520462,17,72,intento,a,Masculino,18,error,MONREAL,dificil
+1623520463,17,72,intento,a,Masculino,18,error,WILLIAN,dificil
+1623520464,17,72,intento,a,Masculino,18,error,MIRANDA,dificil
+1623520465,17,72,intento,a,Masculino,18,error,EDERSON,dificil
+1623520467,17,72,intento,a,Masculino,18,error,MIRANDA,dificil
+1623520468,17,72,intento,a,Masculino,18,error,MARCELO,dificil
+1623520469,17,72,intento,a,Masculino,18,error,GRIEZMANN,dificil
+1623520470,17,72,intento,a,Masculino,18,error,MARCELO,dificil
+1623520471,17,72,intento,a,Masculino,18,error,GRIEZMANN,dificil
+1623520473,17,72,intento,a,Masculino,18,error,R. AUGUSTO,dificil
+1623520474,17,72,intento,a,Masculino,18,error,CARVAJAL,dificil
+1623520478,17,72,intento,a,Masculino,18,error,R. AUGUSTO,dificil
+1623520480,17,72,intento,a,Masculino,18,error,FEKIR,dificil
+1623520480,17,72,intento,a,Masculino,18,error,MARQUINHOS,dificil
+1623520481,17,72,intento,a,Masculino,18,error,MONREAL,dificil
+1623520482,17,72,intento,a,Masculino,18,error,MERCADO,dificil
+1623520483,17,72,intento,a,Masculino,18,error,A. BECKER,dificil
+1623520484,17,72,intento,a,Masculino,18,error,VARANE,dificil
+1623520485,17,72,intento,a,Masculino,18,error,FAGNER,dificil
+1623520486,17,72,intento,a,Masculino,18,error,KANTE,dificil
+1623520487,17,72,intento,a,Masculino,18,error,DI MARÍA,dificil
+1623520488,17,72,intento,a,Masculino,18,error,FIRMINO,dificil
+1623520489,17,72,intento,a,Masculino,18,error,R. AUGUSTO,dificil
+1623520490,17,72,intento,a,Masculino,18,error,MESSI,dificil
+1623520491,17,72,intento,a,Masculino,18,error,DYBALA,dificil
+1623520492,17,72,intento,a,Masculino,18,error,DI MARÍA,dificil
+1623520494,17,72,intento,a,Masculino,18,error,DI MARÍA,dificil
+1623520495,17,72,intento,a,Masculino,18,error,LLORIS,dificil
+1623520496,17,72,intento,a,Masculino,18,error,ACUÑA,dificil
+1623520497,17,72,intento,a,Masculino,18,error,TOLISSO,dificil
+1623520499,17,72,intento,a,Masculino,18,error,RODRIGO M.,dificil
+1623520499,17,72,intento,a,Masculino,18,error,PAULINHO,dificil
+1623520500,17,72,intento,a,Masculino,18,error,T. SILVA,dificil
+1623520501,17,72,intento,a,Masculino,18,error,GUZMÁN,dificil
+1623520502,17,72,intento,a,Masculino,18,error,AREOLA,dificil
+1623520504,17,72,intento,a,Masculino,18,error,MIRANDA,dificil
+1623520505,17,72,intento,a,Masculino,18,error,UMTITI,dificil
+1623520506,17,72,intento,a,Masculino,18,error,LANZINI,dificil
+1623520507,17,72,intento,a,Masculino,18,error,A. INIESTA,dificil
+1623520508,17,72,intento,a,Masculino,18,error,IAGO ASPAS,dificil
+1623520509,17,72,intento,a,Masculino,18,error,AREOLA,dificil
+1623520510,17,72,fin,a,Masculino,18,timeout,,dificil
+1623520512,18,72,inicio_partida,a,Masculino,18,,,dificil
+1623520697,19,72,inicio_partida,a,Masculino,18,,,dificil
+1623520699,19,72,intento,a,Masculino,18,error,MASCHERANO,dificil
+1623520701,19,72,intento,a,Masculino,18,error,ARMANI,dificil
+1623520701,19,72,intento,a,Masculino,18,error,WILLIAN,dificil
+1623520702,19,72,intento,a,Masculino,18,error,P. COUTINHO,dificil
+1623520703,19,72,intento,a,Masculino,18,error,BANEGA,dificil
+1623520704,19,72,intento,a,Masculino,18,error,RODRIGO M.,dificil
+1623520705,19,72,intento,a,Masculino,18,error,MERCADO,dificil
+1623520706,19,72,intento,a,Masculino,18,error,KANTE,dificil
+1623520707,19,72,intento,a,Masculino,18,error,ACUÑA,dificil
+1623520708,19,72,intento,a,Masculino,18,error,MARQUINHOS,dificil
+1623520709,19,72,intento,a,Masculino,18,error,MESSI,dificil
+1623520710,19,72,intento,a,Masculino,18,error,POGBA,dificil
+1623520718,19,72,intento,a,Masculino,18,error,AREOLA,dificil
+1623520719,19,72,intento,a,Masculino,18,error,HIGUAÍN,dificil
+1623520720,19,72,intento,a,Masculino,18,error,MATUIDI,dificil
+1623520721,19,72,intento,a,Masculino,18,error,KIMPEMBE,dificil
+1623520722,19,72,intento,a,Masculino,18,error,A. BECKER,dificil
+1623520723,19,72,intento,a,Masculino,18,error,ROJO,dificil
+1623520724,19,72,intento,a,Masculino,18,error,ACUÑA,dificil
+1623520724,19,72,intento,a,Masculino,18,error,R. AUGUSTO,dificil
+1623520725,19,72,intento,a,Masculino,18,error,THAUVIN,dificil
+1623520726,19,72,intento,a,Masculino,18,error,FRED,dificil
+1623520727,19,72,intento,a,Masculino,18,error,FEKIR,dificil
+1623520728,19,72,intento,a,Masculino,18,error,JORDI ALBA,dificil
+1623520729,19,72,intento,a,Masculino,18,error,T. SILVA,dificil
+1623520730,19,72,intento,a,Masculino,18,error,GRIEZMANN,dificil
+1623520731,19,72,intento,a,Masculino,18,error,LLORIS,dificil
+1623520731,19,72,intento,a,Masculino,18,error,CASSIO,dificil
+1623520732,19,72,intento,a,Masculino,18,error,FAGNER,dificil
+1623520733,19,72,intento,a,Masculino,18,error,AGÜERO,dificil
+1623520734,19,72,intento,a,Masculino,18,error,CASEMIRO,dificil
+1623520735,19,72,intento,a,Masculino,18,error,MASCHERANO,dificil
+1623520736,19,72,intento,a,Masculino,18,error,UMTITI,dificil
+1623520737,19,72,intento,a,Masculino,18,error,THAUVIN,dificil
+1623520738,19,72,intento,a,Masculino,18,error,LLORIS,dificil
+1623520739,19,72,intento,a,Masculino,18,error,OTAMENDI,dificil
+1623520740,19,72,intento,a,Masculino,18,error,WILLIAN,dificil
+1623520741,19,72,intento,a,Masculino,18,error,CASEMIRO,dificil
+1623520742,19,72,intento,a,Masculino,18,error,FIRMINO,dificil
+1623520747,19,72,intento,a,Masculino,18,error,CASEMIRO,dificil
+1623520748,19,72,intento,a,Masculino,18,error,FIRMINO,dificil
+1623520749,19,72,intento,a,Masculino,18,error,GIROUD,dificil
+1623520749,19,72,intento,a,Masculino,18,error,SILVA,dificil
+1623520751,19,72,intento,a,Masculino,18,error,D. COSTA,dificil
+1623520751,19,72,intento,a,Masculino,18,error,LEMAR,dificil
+1623520752,19,72,intento,a,Masculino,18,error,LEMAR,dificil
+1623520753,19,72,intento,a,Masculino,18,error,DE GEA,dificil
+1623520754,19,72,intento,a,Masculino,18,error,FAZIO,dificil
+1623520756,19,72,intento,a,Masculino,18,error,FILIPE LUIS,dificil
+1623520757,19,72,intento,a,Masculino,18,error,FERNANDINHO,dificil
+1623520758,19,72,intento,a,Masculino,18,error,CARVAJAL,dificil
+1623520759,19,72,intento,a,Masculino,18,error,NZONZI,dificil
+1623520760,19,72,intento,a,Masculino,18,error,FAZIO,dificil
+1623520761,19,72,intento,a,Masculino,18,error,FAZIO,dificil
+1623520762,19,72,intento,a,Masculino,18,ok,DE GEA,dificil
+1623520763,19,72,intento,a,Masculino,18,error,SIDIBE,dificil
+1623520764,19,72,intento,a,Masculino,18,error,DANILO,dificil
+1623520764,19,72,intento,a,Masculino,18,error,FILIPE LUIS,dificil
+1623520766,19,72,intento,a,Masculino,18,error,MONREAL,dificil
+1623520767,19,72,intento,a,Masculino,18,error,FEKIR,dificil
+1623520768,19,72,intento,a,Masculino,18,error,EDERSON,dificil
+1623520769,19,72,intento,a,Masculino,18,error,NEYMAR JR,dificil
+1623520770,19,72,intento,a,Masculino,18,error,MIRANDA,dificil
+1623520771,19,72,intento,a,Masculino,18,error,IAGO ASPAS,dificil
+1623520772,19,72,intento,a,Masculino,18,error,FIRMINO,dificil
+1623520772,19,72,intento,a,Masculino,18,error,RAMI,dificil
+1623520773,19,72,intento,a,Masculino,18,error,D. COSTA,dificil
+1623520774,19,72,intento,a,Masculino,18,error,EDERSON,dificil
+1623520775,19,72,intento,a,Masculino,18,error,LANZINI,dificil
+1623520776,19,72,intento,a,Masculino,18,error,RAMI,dificil
+1623520777,19,72,intento,a,Masculino,18,error,VARANE,dificil
+1623520778,19,72,intento,a,Masculino,18,error,BANEGA,dificil
+1623520797,19,72,intento,a,Masculino,18,error,LUCAS V.,dificil
+1623520798,19,72,intento,a,Masculino,18,error,FAGNER,dificil
+1623520799,19,72,intento,a,Masculino,18,error,SALVIO,dificil
+1623520799,19,72,intento,a,Masculino,18,error,DI MARÍA,dificil
+1623520801,19,72,intento,a,Masculino,18,error,A. BECKER,dificil
+1623520801,19,72,intento,a,Masculino,18,error,BANEGA,dificil
+1623520802,19,72,intento,a,Masculino,18,error,IAGO ASPAS,dificil
+1623520803,19,72,intento,a,Masculino,18,error,MEZA,dificil
+1623520804,19,72,intento,a,Masculino,18,error,A. BECKER,dificil
+1623520805,19,72,intento,a,Masculino,18,error,ANSALDI,dificil
+1623520806,19,72,intento,a,Masculino,18,error,FERNANDINHO,dificil
+1623520807,19,72,intento,a,Masculino,18,error,GIROUD,dificil
+1623520808,19,72,intento,a,Masculino,18,error,MANDANDA,dificil
+1623520809,19,72,intento,a,Masculino,18,error,DI MARÍA,dificil
+1623520823,19,72,fin,a,Masculino,18,timeout,,dificil
+1623520899,20,72,inicio_partida,a,Masculino,18,,,dificil
+1623520901,20,72,intento,a,Masculino,18,error,OTAMENDI,dificil
+1623520902,20,72,intento,a,Masculino,18,error,SILVA,dificil
+1623520903,20,72,intento,a,Masculino,18,error,BANEGA,dificil
+1623520904,20,72,intento,a,Masculino,18,error,GRIEZMANN,dificil
+1623520905,20,72,intento,a,Masculino,18,error,FEKIR,dificil
+1623520905,20,72,intento,a,Masculino,18,error,OTAMENDI,dificil
+1623520906,20,72,intento,a,Masculino,18,error,DYBALA,dificil
+1623520907,20,72,intento,a,Masculino,18,error,A. INIESTA,dificil
+1623520908,20,72,intento,a,Masculino,18,error,UMTITI,dificil
+1623520910,20,72,intento,a,Masculino,18,error,HIGUAÍN,dificil
+1623520911,20,72,intento,a,Masculino,18,error,GIROUD,dificil
+1623520912,20,72,fin,a,Masculino,18,fin_forzado,,dificil
+1623521001,21,72,inicio_partida,a,Masculino,18,,,dificil
+1623521003,21,72,intento,a,Masculino,18,error,CASSIO,dificil
+1623521004,21,72,intento,a,Masculino,18,error,T. SILVA,dificil
+1623521006,21,72,intento,a,Masculino,18,error,R. AUGUSTO,dificil
+1623521006,21,72,intento,a,Masculino,18,error,DYBALA,dificil
+1623521007,21,72,intento,a,Masculino,18,error,OTAMENDI,dificil
+1623521008,21,72,intento,a,Masculino,18,error,GUZMÁN,dificil
+1623521009,21,72,intento,a,Masculino,18,error,R. AUGUSTO,dificil
+1623521010,21,72,intento,a,Masculino,18,error,R. AUGUSTO,dificil
+1623521011,21,72,intento,a,Masculino,18,error,A. BECKER,dificil
+1623521012,21,72,intento,a,Masculino,18,error,DE GEA,dificil
+1623521012,21,72,intento,a,Masculino,18,error,TOLISSO,dificil
+1623521013,21,72,intento,a,Masculino,18,error,AREOLA,dificil
+1623521014,21,72,intento,a,Masculino,18,error,THIAGO,dificil
+1623521015,21,72,intento,a,Masculino,18,error,KIMPEMBE,dificil
+1623521016,21,72,intento,a,Masculino,18,error,MONREAL,dificil
+1623521017,21,72,intento,a,Masculino,18,error,THAUVIN,dificil
+1623521018,21,72,intento,a,Masculino,18,error,AREOLA,dificil
+1623521019,21,72,intento,a,Masculino,18,error,DE GEA,dificil
+1623521020,21,72,intento,a,Masculino,18,error,MEZA,dificil
+1623521021,21,72,intento,a,Masculino,18,error,DYBALA,dificil
+1623521022,21,72,intento,a,Masculino,18,error,GIROUD,dificil
+1623521023,21,72,intento,a,Masculino,18,error,D. COSTA,dificil
+1623521024,21,72,intento,a,Masculino,18,error,IAGO ASPAS,dificil
+1623521025,21,72,intento,a,Masculino,18,error,BIGLIA,dificil
+1623521026,21,72,intento,a,Masculino,18,error,SIDIBE,dificil
+1623521027,21,72,intento,a,Masculino,18,error,OTAMENDI,dificil
+1623521028,21,72,intento,a,Masculino,18,error,MONREAL,dificil
+1623521029,21,72,intento,a,Masculino,18,error,AREOLA,dificil
+1623521030,21,72,intento,a,Masculino,18,error,THAUVIN,dificil
+1623521031,21,72,intento,a,Masculino,18,error,NZONZI,dificil
+1623521032,21,72,intento,a,Masculino,18,error,KANTE,dificil
+1623521034,21,72,intento,a,Masculino,18,error,FAGNER,dificil
+1623521034,21,72,intento,a,Masculino,18,error,DI MARÍA,dificil
+1623521037,21,72,intento,a,Masculino,18,error,A. INIESTA,dificil
+1623521038,21,72,intento,a,Masculino,18,error,ANSALDI,dificil
+1623521039,21,72,intento,a,Masculino,18,error,A. INIESTA,dificil
+1623521040,21,72,intento,a,Masculino,18,error,SALVIO,dificil
+1623521042,21,72,intento,a,Masculino,18,error,MARCELO,dificil
+1623521042,21,72,intento,a,Masculino,18,error,FAZIO,dificil
+1623521044,21,72,intento,a,Masculino,18,error,FAGNER,dificil
+1623521045,21,72,intento,a,Masculino,18,error,GIROUD,dificil
+1623521046,21,72,intento,a,Masculino,18,error,UMTITI,dificil
+1623521047,21,72,intento,a,Masculino,18,error,THAUVIN,dificil
+1623521048,21,72,intento,a,Masculino,18,error,ACUÑA,dificil
+1623521049,21,72,intento,a,Masculino,18,error,EDERSON,dificil
+1623521050,21,72,intento,a,Masculino,18,error,FAZIO,dificil
+1623521051,21,72,intento,a,Masculino,18,error,RAMI,dificil
+1623521052,21,72,intento,a,Masculino,18,error,MIRANDA,dificil
+1623521053,21,72,intento,a,Masculino,18,error,MANDANDA,dificil
+1623521054,21,72,intento,a,Masculino,18,error,MANDANDA,dificil
+1623521056,21,72,intento,a,Masculino,18,error,IAGO ASPAS,dificil
+1623521057,21,72,intento,a,Masculino,18,error,MATUIDI,dificil
+1623521058,21,72,intento,a,Masculino,18,error,KANTE,dificil
+1623521059,21,72,intento,a,Masculino,18,error,P. COUTINHO,dificil
+1623521060,21,72,intento,a,Masculino,18,error,CASSIO,dificil
+1623521061,21,72,intento,a,Masculino,18,error,A. INIESTA,dificil
+1623521062,21,72,intento,a,Masculino,18,error,PAULINHO,dificil
+1623521063,21,72,intento,a,Masculino,18,error,VARANE,dificil
+1623521064,21,72,intento,a,Masculino,18,error,MASCHERANO,dificil
+1623521065,21,72,intento,a,Masculino,18,error,MARCELO,dificil
+1623521066,21,72,intento,a,Masculino,18,error,LUCAS V.,dificil
+1623521068,21,72,intento,a,Masculino,18,error,MANDANDA,dificil
+1623521069,21,72,intento,a,Masculino,18,error,ROJO,dificil
+1623521070,21,72,intento,a,Masculino,18,error,DANILO,dificil
+1623521071,21,72,intento,a,Masculino,18,error,RODRIGO M.,dificil
+1623521072,21,72,intento,a,Masculino,18,error,LEMAR,dificil
+1623521073,21,72,intento,a,Masculino,18,error,GRIEZMANN,dificil
+1623521074,21,72,intento,a,Masculino,18,error,CARVAJAL,dificil
+1623521075,21,72,intento,a,Masculino,18,error,MARQUINHOS,dificil
+1623521076,21,72,intento,a,Masculino,18,error,LEMAR,dificil
+1623521077,21,72,intento,a,Masculino,18,error,ACUÑA,dificil
+1623521078,21,72,intento,a,Masculino,18,error,POGBA,dificil
+1623521079,21,72,intento,a,Masculino,18,error,MENDY,dificil
+1623521080,21,72,intento,a,Masculino,18,error,LANZINI,dificil
+1623521081,21,72,intento,a,Masculino,18,error,MESSI,dificil
+1623521082,21,72,intento,a,Masculino,18,error,MIRANDA,dificil
+1623521082,21,72,intento,a,Masculino,18,error,NEYMAR JR,dificil
+1623521085,21,72,intento,a,Masculino,18,error,NEYMAR JR,dificil
+1623521086,21,72,intento,a,Masculino,18,error,JORDI ALBA,dificil
+1623521087,21,72,intento,a,Masculino,18,error,LUCAS V.,dificil
+1623521088,21,72,intento,a,Masculino,18,error,P. COUTINHO,dificil
+1623521089,21,72,intento,a,Masculino,18,error,POGBA,dificil
+1623521090,21,72,intento,a,Masculino,18,error,THIAGO,dificil
+1623521091,21,72,intento,a,Masculino,18,error,GUZMÁN,dificil
+1623521092,21,72,intento,a,Masculino,18,error,TAISON,dificil
+1623521093,21,72,intento,a,Masculino,18,error,SIDIBE,dificil
+1623521094,21,72,intento,a,Masculino,18,error,BIGLIA,dificil
+1623521095,21,72,intento,a,Masculino,18,error,A. BECKER,dificil
+1623521096,21,72,intento,a,Masculino,18,error,TAGLIAFICO,dificil
+1623521097,21,72,intento,a,Masculino,18,error,NEYMAR JR,dificil
+1623521097,21,72,intento,a,Masculino,18,error,MARQUINHOS,dificil
+1623521098,21,72,intento,a,Masculino,18,error,ODRIOZOLA,dificil
+1623521099,21,72,intento,a,Masculino,18,error,AGÜERO,dificil
+1623521100,21,72,intento,a,Masculino,18,error,MESSI,dificil
+1623521101,21,72,intento,a,Masculino,18,error,MONREAL,dificil
+1623521102,21,72,intento,a,Masculino,18,error,OTAMENDI,dificil
+1623521103,21,72,intento,a,Masculino,18,error,MONREAL,dificil
+1623521104,21,72,fin,a,Masculino,18,fin_forzado,,dificil
+1623795227,22,72,inicio_partida,a,Masculino,18,,,dificil
+1623795229,22,72,intento,a,Masculino,18,error,A. INIESTA,dificil
+1623795230,22,72,intento,a,Masculino,18,error,ACUÑA,dificil
+1623795231,22,72,intento,a,Masculino,18,error,FAZIO,dificil
+1623795232,22,72,intento,a,Masculino,18,error,UMTITI,dificil
+1623795233,22,72,intento,a,Masculino,18,error,OTAMENDI,dificil
+1623795235,22,72,intento,a,Masculino,18,error,LANZINI,dificil
+1623795236,22,72,fin,a,Masculino,18,fin_forzado,,dificil
+1623795239,23,6,inicio_partida,a,Masculino,18,,,facil
+1623795241,23,6,intento,a,Masculino,18,error,SALVIO,facil
+1623795242,23,6,intento,a,Masculino,18,error,BIGLIA,facil
+1623795243,23,6,intento,a,Masculino,18,error,TAGLIAFICO,facil
+1623795243,23,6,intento,a,Masculino,18,error,SALVIO,facil
+1623795244,23,6,intento,a,Masculino,18,error,LANZINI,facil
+1623795245,23,6,intento,a,Masculino,18,error,MESSI,facil
+1623795247,23,6,intento,a,Masculino,18,error,TAGLIAFICO,facil
+1623795247,23,6,intento,a,Masculino,18,ok,TAGLIAFICO,facil
+1623795248,23,6,fin,a,Masculino,18,fin_forzado,,facil
+1623795254,24,18,inicio_partida,a,Masculino,18,,,medio
+1623795255,24,18,intento,a,Masculino,18,error,FAZIO,medio
+1623795256,24,18,intento,a,Masculino,18,error,AGÜERO,medio
+1623795256,24,18,intento,a,Masculino,18,error,MASCHERANO,medio
+1623795257,24,18,intento,a,Masculino,18,error,MASCHERANO,medio
+1623795258,24,18,intento,a,Masculino,18,error,BIGLIA,medio
+1623795259,24,18,intento,a,Masculino,18,error,ANSALDI,medio
+1623795259,24,18,intento,a,Masculino,18,error,BIGLIA,medio
+1623795260,24,18,intento,a,Masculino,18,error,MERCADO,medio
+1623795261,24,18,intento,a,Masculino,18,error,MESSI,medio
+1623795262,24,18,intento,a,Masculino,18,error,FAZIO,medio
+1623795263,24,18,intento,a,Masculino,18,ok,MASCHERANO,medio
+1623795264,24,18,fin,a,Masculino,18,fin_forzado,,medio
+1623853631,25,6,inicio_partida,Mateo,Masculino,32,,,facil
+1623853635,25,6,fin,Mateo,Masculino,32,fin_forzado,,facil
+1623879776,26,6,inicio_partida,Martin,Masculino,55,,,facil
+1623879780,26,6,intento,Martin,Masculino,55,error,Anguilla,facil
+1623879783,26,6,intento,Martin,Masculino,55,ok,Anguilla,facil
+1623879789,26,6,intento,Martin,Masculino,55,ok,Andorra,facil
+1623879791,26,6,intento,Martin,Masculino,55,ok,Antigua & Barbuda,facil
+1623879793,26,6,intento,Martin,Masculino,55,error,Argentina,facil
+1623879795,26,6,intento,Martin,Masculino,55,ok,Argentina,facil
+1623879796,26,6,intento,Martin,Masculino,55,ok,Austria,facil
+1623879797,26,6,intento,Martin,Masculino,55,ok,Aruba,facil
+1623879799,26,6,fin,Martin,Masculino,55,finalizada,,facil
+1623879903,27,18,inicio_partida,Martin,Masculino,55,,,medio
+1623879905,27,18,intento,Martin,Masculino,55,error,Antigua & Barbuda,medio
+1623879905,27,18,intento,Martin,Masculino,55,error,Austria,medio
+1623879906,27,18,intento,Martin,Masculino,55,error,Colombia,medio
+1623879907,27,18,intento,Martin,Masculino,55,error,Aruba,medio
+1623879908,27,18,intento,Martin,Masculino,55,error,Chile,medio
+1623879909,27,18,intento,Martin,Masculino,55,error,Colombia,medio
+1623879910,27,18,intento,Martin,Masculino,55,error,Cuba,medio
+1623879910,27,18,intento,Martin,Masculino,55,error,Brazil,medio
+1623879911,27,18,intento,Martin,Masculino,55,error,Belize,medio
+1623879912,27,18,intento,Martin,Masculino,55,ok,Austria,medio
+1623879913,27,18,intento,Martin,Masculino,55,error,Belgium,medio
+1623879914,27,18,intento,Martin,Masculino,55,error,Cayman Islands,medio
+1623879915,27,18,intento,Martin,Masculino,55,error,Belize,medio
+1623879916,27,18,intento,Martin,Masculino,55,error,Barbados,medio
+1623879917,27,18,intento,Martin,Masculino,55,error,Costa Rica,medio
+1623879918,27,18,intento,Martin,Masculino,55,error,Aruba,medio
+1623879918,27,18,intento,Martin,Masculino,55,error,"Bahamas, The",medio
+1623879919,27,18,intento,Martin,Masculino,55,error,Barbados,medio
+1623879920,27,18,intento,Martin,Masculino,55,error,Aruba,medio
+1623879921,27,18,intento,Martin,Masculino,55,error,Barbados,medio
+1623879921,27,18,intento,Martin,Masculino,55,error,Aruba,medio
+1623879922,27,18,intento,Martin,Masculino,55,error,Antigua & Barbuda,medio
+1623879923,27,18,intento,Martin,Masculino,55,error,Brazil,medio
+1623879924,27,18,intento,Martin,Masculino,55,error,Brazil,medio
+1623879925,27,18,intento,Martin,Masculino,55,error,Chile,medio
+1623879926,27,18,intento,Martin,Masculino,55,error,Costa Rica,medio
+1623879928,27,18,intento,Martin,Masculino,55,error,British Virgin Is,medio
+1623879928,27,18,intento,Martin,Masculino,55,error,Colombia,medio
+1623879930,27,18,intento,Martin,Masculino,55,ok,Brazil,medio
+1623879931,27,18,fin,Martin,Masculino,55,fin_forzado,,medio
+1623880118,28,6,inicio_partida,Dana,Femenino,31,,,facil
+1623880120,28,6,intento,Dana,Femenino,31,error,Aruba,facil
+1623880124,28,6,intento,Dana,Femenino,31,error,Antigua & Barbuda,facil
+1623880126,28,6,intento,Dana,Femenino,31,error,Anguilla,facil
+1623880129,28,6,intento,Dana,Femenino,31,error,Anguilla,facil
+1623880132,28,6,intento,Dana,Femenino,31,error,Argentina,facil
+1623880134,28,6,intento,Dana,Femenino,31,error,Argentina,facil
+1623880136,28,6,intento,Dana,Femenino,31,error,Argentina,facil
+1623880137,28,6,intento,Dana,Femenino,31,error,Argentina,facil
+1623880138,28,6,intento,Dana,Femenino,31,error,Argentina,facil
+1623880139,28,6,intento,Dana,Femenino,31,ok,Antigua & Barbuda,facil
+1623880141,28,6,fin,Dana,Femenino,31,fin_forzado,,facil
+1623880163,29,18,inicio_partida,a,Masculino,18,,,medio
+1623880166,29,18,intento,a,Masculino,18,error,Chile,medio
+1623880167,29,18,intento,a,Masculino,18,error,Cayman Islands,medio
+1623880168,29,18,fin,a,Masculino,18,fin_forzado,,medio
+1623880175,30,6,inicio_partida,a,Masculino,18,,,facil
+1623880177,30,6,intento,a,Masculino,18,error,Austria,facil
+1623880182,30,6,intento,a,Masculino,18,ok,Aruba,facil
+1623880183,30,6,intento,a,Masculino,18,error,Austria,facil
+1623880190,30,6,intento,a,Masculino,18,error,Antigua & Barbuda,facil
+1623880191,30,6,intento,a,Masculino,18,ok,Argentina,facil
+1623880192,30,6,intento,a,Masculino,18,error,Antigua & Barbuda,facil
+1623880193,30,6,intento,a,Masculino,18,error,Anguilla,facil
+1623880194,30,6,intento,a,Masculino,18,error,Antigua & Barbuda,facil
+1623880195,30,6,intento,a,Masculino,18,error,Andorra,facil
+1623880196,30,6,intento,a,Masculino,18,error,Antigua & Barbuda,facil
+1623880197,30,6,intento,a,Masculino,18,error,Austria,facil
+1623880198,30,6,intento,a,Masculino,18,error,Andorra,facil
+1623880200,30,6,intento,a,Masculino,18,ok,Anguilla,facil
+1623880202,30,6,intento,a,Masculino,18,ok,Antigua & Barbuda,facil
+1623880203,30,6,intento,a,Masculino,18,error,Andorra,facil
+1623880205,30,6,intento,a,Masculino,18,error,Andorra,facil
+1623880207,30,6,intento,a,Masculino,18,ok,Austria,facil
+1623880208,30,6,intento,a,Masculino,18,ok,Andorra,facil
+1623880209,30,6,fin,a,Masculino,18,finalizada,,facil
+1623880228,31,6,inicio_partida,a,Masculino,18,,,facil
+1623880230,31,6,intento,a,Masculino,18,error,Argentina,facil
+1623880231,31,6,intento,a,Masculino,18,error,Antigua & Barbuda,facil
+1623880233,31,6,intento,a,Masculino,18,error,Aruba,facil
+1623880234,31,6,intento,a,Masculino,18,error,Austria,facil
+1623880236,31,6,intento,a,Masculino,18,error,Austria,facil
+1623880237,31,6,intento,a,Masculino,18,ok,Antigua & Barbuda,facil
+1623880240,31,6,intento,a,Masculino,18,error,Anguilla,facil
+1623880241,31,6,intento,a,Masculino,18,error,Argentina,facil
+1623880242,31,6,intento,a,Masculino,18,error,Argentina,facil
+1623880243,31,6,intento,a,Masculino,18,error,Austria,facil
+1623880243,31,6,intento,a,Masculino,18,ok,Argentina,facil
+1623880244,31,6,fin,a,Masculino,18,fin_forzado,,facil
+1623884071,32,6,inicio_partida,a,Masculino,18,,,facil
+1623884078,32,6,intento,a,Masculino,18,error,Argentina,facil
+1623884080,32,6,intento,a,Masculino,18,error,Aruba,facil
+1623884081,32,6,intento,a,Masculino,18,error,Antigua & Barbuda,facil
+1623884082,32,6,intento,a,Masculino,18,ok,Andorra,facil
+1623884084,32,6,fin,a,Masculino,18,fin_forzado,,facil
+1623884086,33,6,inicio_partida,a,Masculino,18,,,facil
+1623884088,33,6,intento,a,Masculino,18,error,Andorra,facil
+1623884089,33,6,intento,a,Masculino,18,error,Andorra,facil
+1623884091,33,6,intento,a,Masculino,18,error,Argentina,facil
+1623884091,33,6,intento,a,Masculino,18,error,Antigua & Barbuda,facil
+1623884092,33,6,intento,a,Masculino,18,ok,Andorra,facil
+1623884094,33,6,fin,a,Masculino,18,fin_forzado,,facil
+1623884094,34,6,inicio_partida,a,Masculino,18,,,facil
+1623884096,34,6,intento,a,Masculino,18,error,Antigua & Barbuda,facil
+1623884096,34,6,intento,a,Masculino,18,error,Anguilla,facil
+1623884098,34,6,intento,a,Masculino,18,error,Aruba,facil
+1623884099,34,6,intento,a,Masculino,18,error,Austria,facil
+1623884101,34,6,intento,a,Masculino,18,error,Austria,facil
+1623884103,34,6,intento,a,Masculino,18,error,Andorra,facil
+1623884104,34,6,intento,a,Masculino,18,ok,Andorra,facil
+1623884105,34,6,fin,a,Masculino,18,fin_forzado,,facil
